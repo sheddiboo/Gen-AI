@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-experimental
+langchain-huggingface
+langchain-core
+chromadb
+sentence-transformers
+sqlalchemy
+mysql-connector-python
+python-dotenv
+notebook
