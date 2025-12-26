@@ -1,4 +1,31 @@
+# --- Existing Rules ---
 .idea/
 .ipynb_checkpoints/
 __pycache__/
 .env
+
+# --- Virtual Environments ---
+# This ignores your specific Anaconda environment and standard ones
+dev_env/
+venv/
+.venv/
+env/
+
+# --- Python Build & Distribution ---
+*.py[cod]
+*$py.class
+dist/
+build/
+*.egg-info/
+
+# --- MCP Server & uv Specifics ---
+# Ignores the local uv cache and tool tracking
+.uv/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+
+# --- My-First-MCP-Server Specifics ---
+# If you have local test logs from Claude Desktop
+*.log
