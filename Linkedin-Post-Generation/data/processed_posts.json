@@ -1,0 +1,145 @@
+[
+    {
+        "text": "As we move toward 2026, global logistics is facing a quiet but consequential choice. We can keep optimizing systems designed for a different industrial era or we can redesign value chains to be intelligent, equitable, and regenerative by design. The next generation of advantage will not come from faster lanes or lower unit costs alone. It will come from how we architect intelligence, resilience, and trust into the system itself. \n\nFive shifts for leaders include:\n\u2022 Using AI as planetary intelligence rather than a cost-cutting tool\n\u2022 Designing supply chains that grow stronger under stress\n\u2022 Making circularity and regeneration core operating models\n\u2022 Treating transparency as shared trust infrastructure\n\u2022 Expanding resilience to include communities and geopolitical stability.",
+        "engagement": 196,
+        "line_count": 6,
+        "tags": [
+            "Supply Chain",
+            "Machine Learning"
+        ],
+        "primary_pillar": "Supply Chain"
+    },
+    {
+        "text": "As the CSCMP Global Learning Challenge comes to a close, I wanted to pause and share a few reflections. This was almost certainly the largest and most global supply chain learning event ever held. I am incredibly proud of every participant who committed the time and energy to learn, grow, and challenge themselves. This Challenge was not the finish line. It was the starting point for what our global supply chain community can achieve together.",
+        "engagement": 56,
+        "line_count": 5,
+        "tags": [
+            "Supply Chain"
+        ],
+        "primary_pillar": "Supply Chain"
+    },
+    {
+        "text": "The future of global trade is full of promise, but unlocking its true potential requires us to build resilience into our supply systems. To move forward, we need deeper integration of innovation\u2014while ensuring that technological progress and the labor force advance together, not at each other\u2019s expense. The road involves significant challenges, including upgrading skills, changing jobs, and continuing tech adoption.",
+        "engagement": 132,
+        "line_count": 1,
+        "tags": [
+            "Supply Chain",
+            "Innovation"
+        ],
+        "primary_pillar": "Supply Chain"
+    },
+    {
+        "text": "Many data teams are drastically overspending on their data stacks. One of my favorite stories is about an engineer who accidentally saved $500k by changing a few Snowflake settings. Surprisingly, these costs could often have been avoided. If your team is looking to cut costs, focus on simplifying your data infrastructure and optimizing your ingestion strategy.",
+        "engagement": 28,
+        "line_count": 1,
+        "tags": [
+            "Software Development",
+            "Data Engineering"
+        ],
+        "primary_pillar": "Data"
+    },
+    {
+        "text": "2026 is the Year of \u201cBoring.\u201d Not boring because nothing happens, but boring because fundamentals finally matter again. The honeymoon period of AI hype is over. Now you get to figure out how to make AI work in your business, but for real. It's about moving from POCs to the grind of the routine and making these new arrangements work full-time.",
+        "engagement": 184,
+        "line_count": 1,
+        "tags": [
+            "Software Development",
+            "Supply Chain",
+            "Machine Learning"
+        ],
+        "primary_pillar": "Data"
+    },
+    {
+        "text": "How will data teams work in the future? I\u2019m betting on AI-guided workflows. Imagine asking in plain English: \u201cWhat are the key alert trends impacting our data health?\u201d or \u201cProvide the YAML for these recommended monitors.\u201d Getting immediate, contextual answers isn\u2019t just about insights; it\u2019s a foundation for rapid transformation in performance. Visibility guided by expertise allows for turning insights into actionable steps with just another prompt.",
+        "engagement": 67,
+        "line_count": 1,
+        "tags": [
+            "Cloud Infrastructure",
+            "Machine Learning"
+        ],
+        "primary_pillar": "Data"
+    },
+    {
+        "text": "Many AI product problems aren\u2019t because of AI. It\u2019s usually because of user experience, data quality, or organizational structure. The biggest product improvements still come from understanding your users, preparing your data, and investing in your team. Also, senior engineers often see the most productivity improvement with AI coding because they write better design docs, yet they are often the most resistant to adopting it when it doesn't match their specific opinions.",
+        "engagement": 756,
+        "line_count": 1,
+        "tags": [
+            "Data Engineering",
+            "Machine Learning",
+            "User Experience"
+        ],
+        "primary_pillar": "Data"
+    },
+    {
+        "text": "I experience a lot of anxiety with customers when it comes to AI. Lots of FOMO (Fear of Missing Out). Fear is not a good decision driver. My advice is to get educated first before you dive in; there is no shame in hitting a pause button. Most importantly: Do not let the Media determine your architecture.",
+        "engagement": 226,
+        "line_count": 1,
+        "tags": [
+            "Innovation",
+            "Software Development",
+            "Machine Learning"
+        ],
+        "primary_pillar": "Data"
+    },
+    {
+        "text": "I genuinely believed I \u201chit a wall\u201d at $600k in big tech until I confronted my limiting beliefs. I thought I was only good as an engineer and never at sales or marketing. But the universe ultimately pays you what you think you\u2019re worthy of being paid. Worthiness comes from doing the hard work and having results. Taking the risk to be a creator showed me that the path wasn't as limited as I thought.",
+        "engagement": 776,
+        "line_count": 1,
+        "tags": [
+            "Career Development",
+            "Innovation"
+        ],
+        "primary_pillar": "Data"
+    },
+    {
+        "text": "Software projects aren't failing because they aren't using enough AI. They are failing because they lack the basics: No automated testing, no observability, crap code, and no idea how to build reproducible pipelines. This AI era will quickly expose teams who don't know what they are doing because AI can't fix a lack of foundational engineering discipline.",
+        "engagement": 105,
+        "line_count": 1,
+        "tags": [
+            "Software Development",
+            "Cloud Infrastructure",
+            "Machine Learning"
+        ],
+        "primary_pillar": "ML Systems"
+    },
+    {
+        "text": "Different LLM providers require different tool configurations: parallel vs sequential execution, strict mode, token limits. This often creates scattered configs. New updates in orchestration frameworks (like LangChain) now allow for provider-specific configurations directly in tool definitions. This lets you define all configs in one place and switch providers without touching multiple files.",
+        "engagement": 73,
+        "line_count": 1,
+        "tags": [
+            "Cloud Infrastructure",
+            "Machine Learning"
+        ],
+        "primary_pillar": "ML Systems"
+    },
+    {
+        "text": "Learning about model architectures and hyperparameters is only about 30% of the work. An engine without its system\u2014a car\u2014is useless. You need to know how to integrate the gas pipeline, circuits, and transmission. In AI, this means focusing on the entire ecosystem: model deployment, Docker, and Kubernetes. Truly successful people are the ones who look past the 'engine' to build the 'car'.",
+        "engagement": 60,
+        "line_count": 1,
+        "tags": [
+            "Cloud Infrastructure",
+            "Machine Learning"
+        ],
+        "primary_pillar": "ML Systems"
+    },
+    {
+        "text": "RAG, Agentic RAG, and Multi-Agent RAG are not just buzzwords; they represent the evolution of solving problems rather than just answering questions. RAG provides context; Agentic RAG adds planning and tools; Multi-Agent RAG enables specialized collaboration and independent reasoning. Understanding these patterns is no longer optional for real-world AI product building.",
+        "engagement": 53,
+        "line_count": 1,
+        "tags": [
+            "Machine Learning"
+        ],
+        "primary_pillar": "ML Systems"
+    },
+    {
+        "text": "In 2025, the gap between academic AI research and engineering reality became clear. Theory rarely connects with utility when researchers ignore production constraints. Proof in engineering is an artifact that works in the real world. In 2026, researchers and engineers must work together, connecting advances with utility, or the field will repeat the gatekeeping mistakes of the past.",
+        "engagement": 75,
+        "line_count": 1,
+        "tags": [
+            "Software Development",
+            "Innovation",
+            "Machine Learning"
+        ],
+        "primary_pillar": "Data"
+    }
+]

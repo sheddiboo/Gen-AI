@@ -9,7 +9,7 @@ from langchain_core.example_selectors import SemanticSimilarityExampleSelector
 from langchain_core.prompts import FewShotPromptTemplate, PromptTemplate
 from sqlalchemy import create_engine
 
-# Import the training examples from our separate file(few_shots.py)
+# Import the training examples from our separate file(few_shot.py)
 from few_shots import few_shots
 
 # Load secret keys (like DB passwords and API keys) from the .env file
