@@ -41,12 +41,20 @@ Experimental notebooks focused on model optimization and advanced reasoning capa
 * **Optimized Learning:** Utilizes QLoRA for 2x faster training and massive VRAM savings.
 * **Quantization Basics:** Covers the fundamentals of reducing model precision (INT8/NF4) to make LLMs run efficiently on consumer hardware.
 
-[Image of QLoRA architecture showing 4-bit frozen base weights and 16-bit trainable adapters]
 
 ### 6. 🔌 Model Context Protocol (MCP) Server (`/my-first-mcp-server`)
 A project exploring **MCP**, an open standard for connecting AI assistants to external data and tools.
 * **Goal:** Standardize how LLMs communicate with data sources (databases, APIs, files) to reduce hallucinations and increase automation.
 * **Setup:** A custom server built using Python to provide external context to an LLM host.
+
+### 7. ✍️ LinkedIn Post Generator (`/Linkedin-Post-Generation`)
+A style-mimicking tool that helps influencers write new content in their own unique voice.
+* **Goal:** Analyze past LinkedIn posts to extract writing style (tone, vocabulary, structure) and generate new posts on specific topics.
+* **Tech Stack:** Groq (Llama 3.3), LangChain, Few-Shot Learning, Streamlit.
+* **Key Features:**
+    * **Few-Shot Learning:** Selects relevant past posts to use as "Ground Truth" for style guidance.
+    * **Parameter Control:** Users can customize Topic, Length (Short/Medium/Long), and Style Category.
+    * **Modular Architecture:** Separated logic (`post_generator.py`) and UI (`main.py`) for cleaner deployment.
 
 ---
 
@@ -57,6 +65,7 @@ gen_ai/
 ├── tshirt_sales/            # Text-to-SQL database agent
 ├── news_research_project/   # RAG application for news articles
 ├── restaurant/              # Multi-chain creative generator
+├── Linkedin-Post-Generation/# Style-mimicking post generator using Few-Shot Learning
 ├── llm_fine_tuning/         # Unsloth/QLoRA & Quantization notebooks
 │   ├── quantization_basics.ipynb
 │   └── unsloth_finetuning.ipynb
